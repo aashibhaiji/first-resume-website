@@ -1,7 +1,7 @@
 {
-  "name": "codeschool-webdev",
+  "name": "first-website",
   "source": [
-    "src/index.ejs"
+    "src/index.html"
   ],
   "targets": {
     "default": {
